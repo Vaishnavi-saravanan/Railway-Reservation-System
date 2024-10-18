@@ -1,6 +1,8 @@
 # Railway-Reservation-System
 # Name: VAISHNAVI S
 # Reg no: 212222230165
+# AIM
+To create a UML Diagrams for Railway reservation system.
 # USE CASE DIAGRAM
 
 ![1](https://github.com/user-attachments/assets/36e6341a-be29-44ec-88c1-c457bd78bda9)
